@@ -1,0 +1,52 @@
+{
+  "name": "pro-components-search-result",
+  "version": "0.0.2",
+  "description": "🏆 Custom Search Result Bar like a Pro!",
+  "keywords": [
+    "antd",
+    "admin",
+    "ant-design",
+    "ant-design-pro"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "sideEffects": [
+    "*.less"
+  ],
+  "files": [
+    "lib",
+    "es",
+    "dist"
+  ],
+  "browserslist": [
+    "last 2 versions",
+    "Firefox ESR",
+    "> 1%",
+    "ie >= 11"
+  ],
+  "dependencies": {
+    "@types/react": "^18.3.11",
+    "@types/styled-components": "^5.1.34",
+    "antd": "4.21.4",
+    "axios": "^1.7.7",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0",
+    "styled-components": "5.x",
+    "typescript": "^5.6.3"
+  },
+  "peerDependencies": {
+    "antd": ">=4.19.3",
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
+  }
+}
